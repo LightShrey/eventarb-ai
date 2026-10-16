@@ -34,3 +34,10 @@ Kalshi + Polymarket → normalized Market objects → keyword candidate matcher
 - Fee and slippage estimates are added to cost before calculating return.
 - Resolution-source or settlement-date differences are highlighted and block `SAFE_MATCH` in fallback mode.
 - All trading is simulated. Prices, liquidity, and outputs are informational estimates only.
+
+
+
+
+
+WEBSITE LINK
+https://lightshrey-eventarb-ai-app-6m9yvj.streamlit.app/
